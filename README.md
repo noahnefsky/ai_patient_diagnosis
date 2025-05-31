@@ -1,5 +1,7 @@
 # ai_patient_diagnosis
-In the ER, doctors make critical decisions, often without specialist support, while long wait times put patients with serious but less obvious symptoms at risk. I built an application using existing datasets to improve triage prioritization and diagnostic accuracy, leading to better patient outcomes. I used Palantir Foundry to create the frontend and organize the data pipeline.
+In the ER, doctors make critical decisions, often without specialist support, while long wait times put patients with serious but less obvious symptoms at risk. I built an application using existing datasets to improve triage prioritization and diagnostic accuracy, leading to better patient outcomes.
+
+I used Palantir Foundry to create the frontend and organize the data pipeline, so some of the code is not imported into this repo.
 
 ## Demo Link
 https://www.loom.com/share/98ccb003beda461195ec8fcfe9bbb045?sid=68ab0305-6703-4944-9525-8ec1d46bc45c
