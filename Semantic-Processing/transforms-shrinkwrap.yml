@@ -1,0 +1,17 @@
+---
+mappings:
+- alias: "/noahnefsky-655130/build_now/PMC_Patient_Diagnosis_ICD"
+  modes:
+  - "BUILD"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.9a413f40-b08d-475b-819d-42b1c49145d1"
+- alias: "ri.foundry.main.dataset.4df7a321-baad-4d03-b93b-561d4626c801"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.4df7a321-baad-4d03-b93b-561d4626c801"
+- alias: "ri.foundry.main.dataset.80919132-9774-44f5-8af2-622291a4eede"
+  modes:
+  - "READ"
+  path: "/deprecated-field"
+  rid: "ri.foundry.main.dataset.80919132-9774-44f5-8af2-622291a4eede"

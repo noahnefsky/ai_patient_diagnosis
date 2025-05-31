@@ -1,0 +1,10 @@
+{
+  "parentTemplateId" : "functions",
+  "childTemplatesByPath" : {
+    "functions-typescript" : "typescript"
+  },
+  "parentTemplateVersion" : "3.563.0",
+  "childTemplateVersionsByPath" : {
+    "functions-typescript" : "0.871.0"
+  }
+}
